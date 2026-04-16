@@ -4,6 +4,12 @@ An end-to-end **HR Analytics Web Application** built using Streamlit that helps 
 
 ---
 
+🚀 Live Demo
+
+🔗 https://hr-intelligence-app-8vaps87nkhjvvy79fcv7wl.streamlit.app/
+
+---
+
 ## 📌 Key Features
 
 ### 🔐 User Authentication
